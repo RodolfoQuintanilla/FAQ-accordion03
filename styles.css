@@ -13,7 +13,7 @@
 
 @font-face {
   font-family: "work sans";
-  src: url(/assets/fonts/WorkSans-Italic-VariableFont_wght.ttf);
+  src: url(./assets/fonts/WorkSans-Italic-VariableFont_wght.ttf);
 
 }
 
@@ -98,6 +98,7 @@ margin-top: 10px;
 @media screen and (max-width: 600px) {
     .card{
         width: 300px;
+        height: auto;
     }
 } 
 
